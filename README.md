@@ -30,7 +30,8 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones me  
 - Se realiza un EDA (Analisis Exploratorio de Datos), el mismo se encuentra el archivo notebook, antes mencionado y contiene el analisis y las decisiones tomadas a base de los mismos.
 - Procedí con la aplicacion de algunas transformaciones para que los nuevos datasets pueda ser importados a la siguiente herramienta de la manera correcta.
 - En Power BI creo tablas con los datasets seleccionados para mi analisis y procedo. 
-- Genero las graficas correspondientes que me ayuden a la presentacion de mis conclusiones. 
+- Genero las graficas correspondientes que me ayuden a la presentacion de mis conclusiones.
+- Por último genero un informe a presentar con los pasos y conclusiones del analisis.
 
 
 
