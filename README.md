@@ -29,6 +29,11 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones me  
 - Esto me permite realizar un EDA (Analisis Exploratorio de Datos), el mismo se encuentra el archivo notebook, antes mencionado y contiene el analisis y las decisiones tomadas a base de los mismos.
 - Procedí con la aplicacion de algunas transformaciones para que los nuevos datasets pueda ser importados a la siguiente herramienta de la manera correcta.
 - En Power BI creo tablas con los datasets seleccionados para mi analisis y procedo y procedo a generar unos ajustes en Power Query 
+- KPI establecidos:
+  - Evaluar el aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares por provincia
+  - Evaluar el crecimiento/decrecimiento de las conexiones por Fibra Óptica desde 2014 a 2021
+  - Evaluar el crecimiento/decrecimiento de la velocidad de bajada de datos Mbsp por provincia
+  - Evaluar la cantidad de localidad que utilizan Cable Modem vs Fibra Óptica
 - Genero las graficas correspondientes y los KPI que me ayuden a obtener resultados.
 - Por último genero un informe a presentar del analisis y mis conclusiones del mismo.
 
