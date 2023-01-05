@@ -25,13 +25,12 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones me  
 <img src = 'https://datascientest.com/es/wp-content/uploads/sites/7/2022/07/trabajo_data_analyst.webp' height = 400>
 
 ## **Pasos que seguí:**
-- Entré a la página (https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
-- Obtuve acceso a los datasets que ahí se encuentran, mediante un notebook de Python importando los links de los archivos .CSV
-- Se realiza un EDA (Analisis Exploratorio de Datos), el mismo se encuentra el archivo notebook, antes mencionado y contiene el analisis y las decisiones tomadas a base de los mismos.
+- Entrando a la página (https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) del Ente Nacional de Comunicaiones (ENACOM) obtuve acceso a los datasets que ahí se encuentran, mediante un notebook de Python importando los links de los archivos .CSV
+- Esto me permite realizar un EDA (Analisis Exploratorio de Datos), el mismo se encuentra el archivo notebook, antes mencionado y contiene el analisis y las decisiones tomadas a base de los mismos.
 - Procedí con la aplicacion de algunas transformaciones para que los nuevos datasets pueda ser importados a la siguiente herramienta de la manera correcta.
-- En Power BI creo tablas con los datasets seleccionados para mi analisis y procedo. 
-- Genero las graficas correspondientes que me ayuden a la presentacion de mis conclusiones.
-- Por último genero un informe a presentar con los pasos y conclusiones del analisis.
+- En Power BI creo tablas con los datasets seleccionados para mi analisis y procedo y procedo a generar unos ajustes en Power Query 
+- Genero las graficas correspondientes y los KPI que me ayuden a obtener resultados.
+- Por último genero un informe a presentar del analisis y mis conclusiones del mismo.
 
 
 
