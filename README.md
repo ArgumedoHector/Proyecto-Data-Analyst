@@ -25,10 +25,10 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones me  
 <img src = 'https://datascientest.com/es/wp-content/uploads/sites/7/2022/07/trabajo_data_analyst.webp' height = 400>
 
 ## **Pasos que seguí:**
-- Entrando a la página (https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) del Ente Nacional de Comunicaiones (ENACOM) obtuve acceso a los datasets que ahí se encuentran, mediante un notebook de Python importando los links de los archivos .CSV
+- Entrando a la página (https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) del Ente Nacional de Comunicaciones (ENACOM) obtuve acceso a los datasets que ahí se encuentran, mediante un notebook de Python importando los links de los archivos .CSV
 - Esto me permite realizar un EDA (Analisis Exploratorio de Datos), el mismo se encuentra el archivo notebook, antes mencionado y contiene el analisis y las decisiones tomadas a base de los mismos.
 - Procedí con la aplicacion de algunas transformaciones para que los nuevos datasets pueda ser importados a la siguiente herramienta de la manera correcta.
-- En Power BI creo tablas con los datasets seleccionados para mi analisis y procedo y procedo a generar unos ajustes en Power Query 
+- En Power BI creo tablas con los datasets seleccionados para mi análisis y procedo a generar unos ajustes en Power Query 
 - KPI establecidos:
   - Evaluar el aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares por provincia
   - Evaluar el crecimiento/decrecimiento de las conexiones por Fibra Óptica desde 2014 a 2021
